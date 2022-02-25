@@ -1,0 +1,16 @@
+Identifier = "FriendExport"
+Name = "Friend Export"
+Description = "Friend Export allows you to migrate your friends list between characters. This is done with manual commands."
+
+Author = "Vueren#9253"
+Email = "vueren@pm.me"
+Version = "0.9"
+Environment = "4.5"
+
+RunOnStartup = {
+	"FriendExport.lua"
+}
+
+SavedVariables = {
+    FriendExport = "global"
+}
