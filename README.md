@@ -1,4 +1,4 @@
-# Rift-Friend-Export-Addon
+# Rift - Friend Export - Addon
 Addon for exporting the friends list to other characters.
 
 ## Usage
