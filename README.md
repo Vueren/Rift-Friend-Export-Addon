@@ -2,7 +2,7 @@
 Addon for exporting the friends list to other characters.
 
 ## Usage
-```
+
 Friend Export:
 - /fe [help] - Prints this list of commands.
 - /fe export <name> - Exports the Friend List, saving it under the specified name.
@@ -12,4 +12,3 @@ Friend Export:
 - /fe unimport <name> - Removes a list of friends using the specified name.
 - /fe list - Prints a list of exported Friend Lists.
 Note - to use with multiple games open simultaneously, log out on all importing accounts *BEFORE* exporting. Then log out or use /reloadui after exporting before logging in.
- ```
